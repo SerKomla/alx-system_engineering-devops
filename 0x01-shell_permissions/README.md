@@ -1,1 +1,1 @@
-This script is going to switch the current user to betty
+This folder contains shell scripts, that are going to help us give and take permissions on files and folders.
